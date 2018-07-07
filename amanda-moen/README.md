@@ -1,21 +1,19 @@
 # Kilovolt Blog "Lab 03: jQuery Events"
 
 **Author**: Amanda Moen
-**Version**: 2.0.3 
+**Version**: 2.0.0 
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
+We want to be able to sort articles by author or subject.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+Clone, or fork and clone. Run live-server in the terminal.
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+HTML5, CSS3, jQuery
 
 ## Change Log
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
 
 ## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
+TA Seth
